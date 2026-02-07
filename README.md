@@ -1,2 +1,2 @@
-* [View Project](plan.md)
-* [View PRD](plan.md)
+* [View Project Plan](plan.md)
+* [View PRD](prd.md)
